@@ -2,6 +2,12 @@
     "name": "𝗥𝘂𝘂𝗵",
     "short_name": "𝗥𝘂𝘂𝗵",
     "icons": [
+       {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLOkWhQsCMailAFRqzJepIdoMgj2jKtARxN9T2rYxFHd_hBXnlp2_S42KlrZiN8RhTOAIQnGl3PtIfNoXZurDmkdKj-cFU8Oj7augpmLCPPa1fIWOzEkKBvTHraDfxCuNJYIatI5_G8geoQMxVxf8txeeYz1s6gbaF3Lcy0HxeEAEeCyYjegt9WMrQQ/s1600/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Auk9URFUz2tvhZzwEv_NXMast7Wflq5Hbu_oGiQoRghHmfjpJnQndIRZXenpFt8oJBFjowcG5W5vON76qT_9ijwffoQF9_dU-FsMiabiAsxG_AY16wUk5Hf6XhaDUWCySu32cB1-X7AbrKBZYaoWJ-r4l7_xEMfvFvdbnqnHLxvBSaDU1Q5UPrs5mQ/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
