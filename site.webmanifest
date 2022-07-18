@@ -1,0 +1,23 @@
+   {
+    "name": "𝗥𝘂𝘂𝗵",
+    "short_name": "𝗥𝘂𝘂𝗵",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Auk9URFUz2tvhZzwEv_NXMast7Wflq5Hbu_oGiQoRghHmfjpJnQndIRZXenpFt8oJBFjowcG5W5vON76qT_9ijwffoQF9_dU-FsMiabiAsxG_AY16wUk5Hf6XhaDUWCySu32cB1-X7AbrKBZYaoWJ-r4l7_xEMfvFvdbnqnHLxvBSaDU1Q5UPrs5mQ/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEAZUATT9bk1ZyIbfbyFszq6zNRZHC3wxjeZFvfmz5OtFS28fbvG33N4wUhEqYhF0MGL2BdmUPZe8cJVfcjWEnxlJHIjh3i-eEunVDWI7ZDycfStJvzELSvtJyVZR5oBb17hASA3f8Pl8RvFaFcJREGi2pRadgUW-G31igZhD1YOh42d0mCi07kfLjNg/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#282828",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.ruuh.app"
+}
