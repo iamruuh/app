@@ -138,8 +138,5 @@
         }
       ]
     }
-  ],
-  "serviceworker": {
-    "src": "serviceworker.js"
-  }
+  ]
 }
