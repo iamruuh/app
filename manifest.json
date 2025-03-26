@@ -6,7 +6,7 @@
   "dir": "auto",
   "lang": "en-US",
   "orientation": "natural",
-  "start_url": "/tasbeeh",
+  "start_url": "/tasbeeh?utm_source=homescreen",
   "scope": "/tasbeeh",
   "display": "standalone",
   "prefer_related_applications": false,
